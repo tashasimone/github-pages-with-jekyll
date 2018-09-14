@@ -1,3 +1,8 @@
-# Welcome to my blog
+# tasha simone
+## functional creative
 
-I'm glad you are here. I plan to talk about ...
+to check out some of my work, keep scrolling!
+
+**this is my work**
+__and this__
+**also this**
