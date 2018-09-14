@@ -1,15 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: tasha simone | designer
+author: tasha simone
+email: tashaspeterson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  bing bang pow action ladies and gents. your kinda queit, definitely feminist, 
+  vegan, jesus-loving web developing superwoman is here and ready to party because it's almost 3am.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: t_shasimone
+github_username:  tashasimone
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minima
